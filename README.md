@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-### Linguagens Que Utilizo Atualmente
+### Linguagens Que Utilizo Atualmente 
 <div style="display: inline_block">
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Para fins de contratação acesse meu linkedin abaixo
+### Para fins de contratação acesse meu linkedin abaixo 😉
  
 <div> 
  
