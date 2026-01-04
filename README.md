@@ -1,10 +1,10 @@
 # 👋🏻 Bem Vindo Ao Meu Perfil 
 
- <div>
-   <a href="https://github.com/kalyel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalyel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyel&layout=compact&langs_count=6&theme=tokyonight"/>
+ <div >
+   <img  src="developer-Gif.gif"/>
 </div>
+
+
 
 ## 🛠 Tecnologias Que Utilizo Atualmente
 
