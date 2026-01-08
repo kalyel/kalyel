@@ -5,12 +5,13 @@
     <tr style="border: 0px;">
       <td style="border: 0px; padding-right: 20px;">
         <p>
-
-   Me chamo Kalyel, sempre me interessei por tecnologia e atualmente, após me graduar em sistemas de informação pela universidade paulista UNIP, busco uma primeira experiência de trabalho na área da tecnologia.
-   
-   Tive a oportunidade de atuar, durante 3 anos, como operador de caixa em um mercado atacadista, assim desenvolvendo praticas de atendimento ao cliente, trabalho em equipe, comunicação e atenção.
-   
-   Atualmente em transição de carreira focado em me tornar um desenvolvedor Web Front-End.
+          💻Olá! Eu sou o Kalyel
+          <br> <br>
+          Sou formado em Sistemas de Informação e estou focado em me tornar um desenvolvedor Web Front End.
+          <br> <br>
+          Curto criar interfaces modernas e funcionais, sempre buscando aprender e evoluir.
+          <br> <br>
+          🚀 Estou em constante aprendizado e aberto a novos desafios
         </p>
       </td>
       <td style="border: 0px;">
