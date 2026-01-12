@@ -7,7 +7,7 @@
         <p>
           💻Olá! Eu sou o Kalyel
           <br> <br>
-          Sou formado em Sistemas de Informação e estou focado em me tornar um desenvolvedor Web Front End.
+          Sou formado em Sistemas de Informação e estou focado em me tornar um desenvolvedor Web Full Stack.
           <br> <br>
           Curto criar interfaces modernas e funcionais, sempre buscando aprender e evoluir.
           <br> <br>
