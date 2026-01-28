@@ -42,6 +42,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/kalyel-mendes-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:kalyel.mendes.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp;
-  <a href="https://wa.me/13981356557" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" style="height: 28px;"></a>&nbsp;
+  <a href="https://wa.me/13981356557" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 28px;"></a>&nbsp;
   <a href="https://www.instagram.com/kalyelmendes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 </div>
