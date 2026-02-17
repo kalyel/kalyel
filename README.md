@@ -34,6 +34,7 @@
   <img align="center" alt="Tailwind" title="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
   <img align="center" alt="Git" title="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Node.JS" title="Node.JS" height="45" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
   <img align="center" alt="Jest" title="Jest" height="32" width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png">
 </div>
  
