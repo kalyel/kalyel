@@ -25,6 +25,8 @@
 
 ## 🛠 Tecnologias Que Utilizo Atualmente
 
+### 🖥 Front End:
+
 <div style="display: inline_block">
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,10 +34,26 @@
   <img align="center" alt="TS" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />   
   <img align="center" alt="React" title="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind" title="Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
-  <img align="center" alt="Git" title="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Node.JS" title="Node.JS" height="45" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
   <img align="center" alt="Jest" title="Jest" height="32" width="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jest.png">
+</div>
+
+### ⚙ Back End:
+
+<div style="display: inline_block">
+  <img align="center" alt="Node.JS" title="Node.JS" height="45" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+</div>
+
+### 🎲 Banco de Dados:
+
+<div style="display: inline_block">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+</div>
+
+### 🔧 Ferramentas:
+
+<div style="display: inline_block">
+  <img align="center" alt="Git" title="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="DBeaver" title="DBeaver" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
 </div>
  
 <br>
