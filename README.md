@@ -20,10 +20,10 @@
     </tr>
   </table>
 </div>
+<br>
 
 
-
-## 🛠 Tecnologias Que Utilizo Atualmente
+## 🛠 Tecnologias Que Eu Utilizo
 
 ### 🖥 Front End:
 
@@ -41,6 +41,8 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Node.JS" title="Node.JS" height="45" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+  <img align="center" alt="Express" title="Express" height="40" width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png">
+  
 </div>
 
 ### 🎲 Banco de Dados:
@@ -49,10 +51,11 @@
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
-### 🔧 Ferramentas:
+### 🧰 Ferramentas:
 
 <div style="display: inline_block">
   <img align="center" alt="Git" title="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Vite" title="Vite" height="35" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png">
   <img align="center" alt="DBeaver" title="DBeaver" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
 </div>
  
