@@ -48,7 +48,7 @@
 ### 🎲 Banco de Dados:
 
 <div style="display: inline_block">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="38" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 </div>
 
 ### 🧰 Ferramentas:
@@ -57,7 +57,14 @@
   <img align="center" alt="Git" title="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="NPM" title="NPM" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png">
   <img align="center" alt="Vite" title="Vite" height="35" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png">
+  <img align="center" alt="Swagger" title="Swagger" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png">
   <img align="center" alt="DBeaver" title="DBeaver" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg">
+</div>
+
+### 🏗️ DevOps:
+
+<div style="display: inline_block">
+  <img align="center" alt="Docker" title="Docker" height="62" width="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
  
 <br>
