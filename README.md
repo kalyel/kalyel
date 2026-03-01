@@ -40,8 +40,8 @@
 ### ⚙ Back End:
 
 <div style="display: inline_block">
-  <img align="center" alt="Node.JS" title="Node.JS" height="45" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
-  <img align="center" alt="Express" title="Express" height="40" width="48" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png">
+  <img align="center" alt="Node.JS" title="Node.JS" height="50" width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+  <img align="center" alt="Express" title="Express" height="38" width="50" src="https://skillicons.dev/icons?i=express">
 
 </div>
 
